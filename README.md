@@ -2,7 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Introduction
 
-In the project Learning REACT REDUX  on YOUTUBE Kong Ruksiam Channel
+In the project Learning REACT REDUX <br />
+on YOUTUBE Kong Ruksiam Channel <br />
 playlist "สอน React & Redux Workshop CRUD" <br />
 via https://www.youtube.com/playlist?list=PLEE74DyIkwEk32J6J2dwQE1ANg27Vtvs2 <br />
 
