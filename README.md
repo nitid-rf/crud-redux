@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Introduction
+
+In the project Learning REACT REDUX 
+on YOUTUBE Kong Ruksiam Channel
+playlist "สอน React & Redux Workshop CRUD"
+via https://www.youtube.com/playlist?list=PLEE74DyIkwEk32J6J2dwQE1ANg27Vtvs2
+
+
 ## Available Scripts
 
 In the project directory, you can run:
